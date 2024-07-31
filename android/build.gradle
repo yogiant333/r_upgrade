@@ -28,6 +28,7 @@ android {
     compileSdkVersion 33
 
     defaultConfig {
+        namespace 'com.example.r_upgrade'
         minSdkVersion 16
         testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
     }
